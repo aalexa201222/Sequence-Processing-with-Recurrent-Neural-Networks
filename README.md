@@ -22,6 +22,5 @@ Clone the repository to your local machine:
 git clone https://github.com/aalexa201222/Sequence-Processing-with-Recurrent-Neural-Networks.git
 
 ## Contributors
-https://github.com/aalexa201222/Sequence-Processing-with-Recurrent-Neural-Networks
 [Andreas Alexandrou](https://www.linkedin.com/in/andreas-alexandrou-056528242) <br />
 Sotiris Zenios
