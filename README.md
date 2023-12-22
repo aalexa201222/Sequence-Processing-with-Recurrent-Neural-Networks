@@ -15,10 +15,7 @@ The project takes a gradual approach, starting with an understanding of RNNs, mo
 - Visualization: Plot loss and accuracy curves for training and validation sets to visualize the training progress
 
 ## Requirements
-- torch ver=2.1.0+cu118
-- numpy ver=1.23.5
-- spacy ver=3.6.1
-- pickle
+pip install -r requirements.txt
 
 ## Installation
 Clone the repository to your local machine:
